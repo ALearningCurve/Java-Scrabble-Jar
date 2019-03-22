@@ -4,5 +4,4 @@ ECHO Made by William Walling-Sotolongo - contact me at willwallsoto@gmail.com
 
 java -jar Scrabble_Game.jar
 @ECHO OFF
-ECHO Game Succesfully Close!
-PAUSE
+ECHO Game Succesfully Closed!
